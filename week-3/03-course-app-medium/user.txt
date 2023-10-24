@@ -1,0 +1,1 @@
+[{"title":"replaced_cource","description":"course description","price":100,"imageLink":"https://linktoimage.com","published":"false"},{"username":"user","password":"pass"}]
